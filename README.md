@@ -23,7 +23,7 @@ Also, the stats may be incorrect because most of my repos and contributions are 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NickTheHuy&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://github.com/NickTheHuy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickTheHuy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/NickTheHuy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickTheHuy&layout=compact&hide=css,html,handlebars&theme=synthwave" alt="Top Languages" /></a>
 
  ![My Discord](https://discord-readme-badge.vercel.app/api?id=727934726484262972)
  
