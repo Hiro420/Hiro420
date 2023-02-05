@@ -7,7 +7,7 @@ I'm mostly active in Discord, feel free to dm me whenever you want :D
 Also, the stats may be incorrect because most of my repos and contributions are private
 
 
-### Skills
+### Mostly Used Skills
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="py" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="ts" /></a>
