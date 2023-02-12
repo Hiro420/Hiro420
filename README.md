@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I'm Hiro, aka Nick. I mostly make some cool shit for some anime game private server, also I code mostly in Python, JavaScript, Typescript and very very rarely in Lua
+I'm Hiro, aka Nick. I mostly make some cool shit for some anime game private server, also I code mostly in Python, JavaScript, Typescript, CSharp, HTML, CSS and very very rarely in Lua, C++, and Java (I hate Java)
 
 I'm mostly active in Discord, feel free to dm me whenever you want :D
 
