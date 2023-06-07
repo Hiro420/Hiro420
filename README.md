@@ -10,20 +10,20 @@ Also, the stats may be incorrect because most of my repos and contributions are 
 ### Mostly Used Skills
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="py" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="ts" /></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="c#" /> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="html" /> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NickTheHuy/NickTheHuy/main/icons/lua.svg" width="36" height="36" alt="lua" /> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="py" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="ts" /></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="c#" /> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="html" /> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hiro420/Hiro420/main/icons/lua.svg" width="36" height="36" alt="lua" /> 
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Hiro#6666" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/NickTheHuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Hiro#6666" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Hiro420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
 
-[![NickTheHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickTheHuy&show_icons=true&theme=synthwave)](https://github.com/NickTheHuy/github-readme-stats)
+[![Hiro420's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiro420&show_icons=true&theme=synthwave)](https://github.com/Hiro420/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NickTheHuy&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hiro420&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://github.com/NickTheHuy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickTheHuy&layout=compact&hide=css,html,handlebars&theme=synthwave" alt="Top Languages" /></a>
+<a href="https://github.com/Hiro420" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiro420&layout=compact&hide=css,html,handlebars&theme=synthwave" alt="Top Languages" /></a>
 
  ![My Discord](https://discord-readme-badge.vercel.app/api?id=727934726484262972)
  
