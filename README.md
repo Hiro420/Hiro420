@@ -23,6 +23,8 @@ Also, the stats may be incorrect because most of my repos and contributions are 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hiro420&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
 
+![](https://github-profile-trophy.vercel.app/?username=Hiro420&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <a href="https://github.com/Hiro420" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiro420&layout=compact&hide=css,html,handlebars&theme=synthwave" alt="Top Languages" /></a>
 
  ![My Discord](https://discord-readme-badge.vercel.app/api?id=727934726484262972)
