@@ -103,6 +103,7 @@
 
 <div align="center">
 <summary><h2>My GitHub stats</h2></summary>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Hiro420&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
@@ -111,8 +112,6 @@
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Hiro420&theme=radical&no-frame=false&no-bg=true&column=10" height="150" alt="trophies"/>
-</div>
-
 </div>
 
 ###
