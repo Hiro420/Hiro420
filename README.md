@@ -111,7 +111,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hiro420&theme=radical&no-frame=false&no-bg=true&column=10" height="150" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Hiro420&theme=radical&no-frame=false&no-bg=true&column=9" height="150" alt="trophies"/>
 </div>
 
 ###
