@@ -127,13 +127,13 @@
 <details open> 
   <summary><h2>My most popular open source repositories</h2></summary>
 
-[![CockPY](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=CockPY)](https://github.com/Hiro420/CockPY) [![GS_Lua](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=GS_Lua)](https://github.com/Hiro420/GS_Lua)
+[![CockPY](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=CockPY&theme=dracula)](https://github.com/Hiro420/CockPY) [![GS_Lua](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=GS_Lua&theme=dracula)](https://github.com/Hiro420/GS_Lua)
 
 
-[![Dumpcs2Protobuf](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=Dumpcs2Protobuf)](https://github.com/Hiro420/Dumpcs2Protobuf) [![FetchHotfix](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=FetchHotfix)](https://github.com/Hiro420/FetchHotfix) 
+[![Dumpcs2Protobuf](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=Dumpcs2Protobuf&theme=dracula)](https://github.com/Hiro420/Dumpcs2Protobuf) [![FetchHotfix](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=FetchHotfix&theme=dracula)](https://github.com/Hiro420/FetchHotfix) 
 
 
-[![HSR_Downloader](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=HSR_Downloader)](https://github.com/Hiro420/HSR_Downloader) [![BinaryVersionReconstructor](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=BinaryVersionReconstructor)](https://github.com/Hiro420/BinaryVersionReconstructor) 
+[![HSR_Downloader](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=HSR_Downloader&theme=dracula)](https://github.com/Hiro420/HSR_Downloader) [![BinaryVersionReconstructor](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=BinaryVersionReconstructor&theme=dracula)](https://github.com/Hiro420/BinaryVersionReconstructor) 
 
 </details>
 
@@ -141,12 +141,12 @@
 <details open> 
   <summary><h2>Most popular projects I've contributed to</h2></summary>
 
-[![KianaBH3](https://github-readme-stats.vercel.app/api/pin/?username=MikuLeaks&repo=KianaBH3)](https://github.com/MikuLeaks/KianaBH3) [![LunarCore](https://github-readme-stats.vercel.app/api/pin/?username=Melledy&repo=LunarCore)](https://github.com/Melledy/LunarCore)
+[![KianaBH3](https://github-readme-stats.vercel.app/api/pin/?username=MikuLeaks&repo=KianaBH3&theme=dracula)](https://github.com/MikuLeaks/KianaBH3) [![LunarCore](https://github-readme-stats.vercel.app/api/pin/?username=Melledy&repo=LunarCore&theme=dracula)](https://github.com/Melledy/LunarCore)
 
-[![discord-protos](https://github-readme-stats.vercel.app/api/pin/?username=discord-userdoccers&repo=discord-protos)](https://github.com/discord-userdoccers/discord-protos) [![Iridium-SR](https://github-readme-stats.vercel.app/api/pin/?username=tamilpp25&repo=Iridium-SR)](https://github.com/tamilpp25/Iridium-SR) 
+[![discord-protos](https://github-readme-stats.vercel.app/api/pin/?username=discord-userdoccers&repo=discord-protos&theme=dracula)](https://github.com/discord-userdoccers/discord-protos) [![Iridium-SR](https://github-readme-stats.vercel.app/api/pin/?username=tamilpp25&repo=Iridium-SR&theme=dracula)](https://github.com/tamilpp25/Iridium-SR) 
 
 
-[![UnknownAnimeGamePS](https://github-readme-stats.vercel.app/api/pin/?username=XeonSucksLAB&repo=UnknownAnimeGamePS)](https://github.com/XeonSucksLAB/UnknownAnimeGamePS) [![Grasscutter](https://github-readme-stats.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter)](https://github.com/Grasscutters/Grasscutter) 
+[![UnknownAnimeGamePS](https://github-readme-stats.vercel.app/api/pin/?username=XeonSucksLAB&repo=UnknownAnimeGamePS&theme=dracula)](https://github.com/XeonSucksLAB/UnknownAnimeGamePS) [![Grasscutter](https://github-readme-stats.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&theme=dracula)](https://github.com/Grasscutters/Grasscutter) 
 
 </details>
 </div>
