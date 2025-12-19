@@ -127,13 +127,11 @@
 <details open> 
   <summary><h2>My most popular open source repositories</h2></summary>
 
-[![CockPY](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=CockPY&theme=dracula)](https://github.com/Hiro420/CockPY) [![GS_Lua](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=GS_Lua&theme=dracula)](https://github.com/Hiro420/GS_Lua)
+[![NikkeTools](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=NikkeTools&theme=dracula)](https://github.com/Hiro420/HSR_Downloader) [![GS_Lua](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=GS_Lua&theme=dracula)](https://github.com/Hiro420/GS_Lua)
 
+[![Dumpcs2Protobuf](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=Dumpcs2Protobuf&theme=dracula)](https://github.com/Hiro420/Dumpcs2Protobuf) [![CockPY](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=CockPY&theme=dracula)](https://github.com/Hiro420/CockPY) 
 
-[![Dumpcs2Protobuf](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=Dumpcs2Protobuf&theme=dracula)](https://github.com/Hiro420/Dumpcs2Protobuf) [![FetchHotfix](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=FetchHotfix&theme=dracula)](https://github.com/Hiro420/FetchHotfix) 
-
-
-[![HSR_Downloader](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=HSR_Downloader&theme=dracula)](https://github.com/Hiro420/HSR_Downloader) [![BinaryVersionReconstructor](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=BinaryVersionReconstructor&theme=dracula)](https://github.com/Hiro420/BinaryVersionReconstructor) 
+[![StellaSoraData](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=StellaSoraData&theme=dracula)](https://github.com/Hiro420/BinaryVersionReconstructor) [![FetchHotfix](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=FetchHotfix&theme=dracula)](https://github.com/Hiro420/FetchHotfix) 
 
 </details>
 
