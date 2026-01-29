@@ -110,11 +110,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Hiro420&show_icons=true&theme=dracula" height="150" alt="stats graph" />
 </div>
 
-
-<div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hiro420&layout=compact&theme=dracula" height="150" alt="trophies"/>
-</div>
-
 ###
 
 <div align="center">
