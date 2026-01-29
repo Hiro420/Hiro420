@@ -106,12 +106,13 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hiro420&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiro420&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hiro420&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hiro420&show_icons=true&theme=dracula" height="150" alt="stats graph" />
 </div>
 
+
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hiro420&theme=radical&no-frame=false&no-bg=true&column=9" height="150" alt="trophies"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hiro420&layout=compact&theme=dracula" height="150" alt="trophies"/>
 </div>
 
 ###
@@ -127,11 +128,11 @@
 <details open> 
   <summary><h2>My most popular open source repositories</h2></summary>
 
-[![NikkeTools](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=NikkeTools&theme=dracula)](https://github.com/Hiro420/HSR_Downloader) [![GS_Lua](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=GS_Lua&theme=dracula)](https://github.com/Hiro420/GS_Lua)
+[![NikkeTools](https://github-readme-stats-fast.vercel.app/api/pin/?username=Hiro420&repo=NikkeTools&theme=dracula)](https://github.com/Hiro420/HSR_Downloader) [![GS_Lua](https://github-readme-stats-fast.vercel.app/api/pin/?username=Hiro420&repo=GS_Lua&theme=dracula)](https://github.com/Hiro420/GS_Lua)
 
-[![Dumpcs2Protobuf](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=Dumpcs2Protobuf&theme=dracula)](https://github.com/Hiro420/Dumpcs2Protobuf) [![CockPY](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=CockPY&theme=dracula)](https://github.com/Hiro420/CockPY) 
+[![Dumpcs2Protobuf](https://github-readme-stats-fast.vercel.app/api/pin/?username=Hiro420&repo=Dumpcs2Protobuf&theme=dracula)](https://github.com/Hiro420/Dumpcs2Protobuf) [![CockPY](https://github-readme-stats-fast.vercel.app/api/pin/?username=Hiro420&repo=CockPY&theme=dracula)](https://github.com/Hiro420/CockPY) 
 
-[![StellaSoraData](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=StellaSoraData&theme=dracula)](https://github.com/Hiro420/BinaryVersionReconstructor) [![FetchHotfix](https://github-readme-stats.vercel.app/api/pin/?username=Hiro420&repo=FetchHotfix&theme=dracula)](https://github.com/Hiro420/FetchHotfix) 
+[![StellaSoraData](https://github-readme-stats-fast.vercel.app/api/pin/?username=Hiro420&repo=StellaSoraData&theme=dracula)](https://github.com/Hiro420/BinaryVersionReconstructor) [![FetchHotfix](https://github-readme-stats-fast.vercel.app/api/pin/?username=Hiro420&repo=FetchHotfix&theme=dracula)](https://github.com/Hiro420/FetchHotfix) 
 
 </details>
 
@@ -139,12 +140,12 @@
 <details open> 
   <summary><h2>Most popular projects I've contributed to</h2></summary>
 
-[![KianaBH3](https://github-readme-stats.vercel.app/api/pin/?username=MikuLeaks&repo=KianaBH3&theme=dracula)](https://github.com/MikuLeaks/KianaBH3) [![LunarCore](https://github-readme-stats.vercel.app/api/pin/?username=Melledy&repo=LunarCore&theme=dracula)](https://github.com/Melledy/LunarCore)
+[![KianaBH3](https://github-readme-stats-fast.vercel.app/api/pin/?username=MikuLeaks&repo=KianaBH3&theme=dracula)](https://github.com/MikuLeaks/KianaBH3) [![LunarCore](https://github-readme-stats-fast.vercel.app/api/pin/?username=Melledy&repo=LunarCore&theme=dracula)](https://github.com/Melledy/LunarCore)
 
-[![discord-protos](https://github-readme-stats.vercel.app/api/pin/?username=discord-userdoccers&repo=discord-protos&theme=dracula)](https://github.com/discord-userdoccers/discord-protos) [![Iridium-SR](https://github-readme-stats.vercel.app/api/pin/?username=tamilpp25&repo=Iridium-SR&theme=dracula)](https://github.com/tamilpp25/Iridium-SR) 
+[![discord-protos](https://github-readme-stats-fast.vercel.app/api/pin/?username=discord-userdoccers&repo=discord-protos&theme=dracula)](https://github.com/discord-userdoccers/discord-protos) [![Iridium-SR](https://github-readme-stats-fast.vercel.app/api/pin/?username=tamilpp25&repo=Iridium-SR&theme=dracula)](https://github.com/tamilpp25/Iridium-SR) 
 
 
-[![UnknownAnimeGamePS](https://github-readme-stats.vercel.app/api/pin/?username=XeonSucksLAB&repo=UnknownAnimeGamePS&theme=dracula)](https://github.com/XeonSucksLAB/UnknownAnimeGamePS) [![Grasscutter](https://github-readme-stats.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&theme=dracula)](https://github.com/Grasscutters/Grasscutter) 
+[![UnknownAnimeGamePS](https://github-readme-stats-fast.vercel.app/api/pin/?username=XeonSucksLAB&repo=UnknownAnimeGamePS&theme=dracula)](https://github.com/XeonSucksLAB/UnknownAnimeGamePS) [![Grasscutter](https://github-readme-stats-fast.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&theme=dracula)](https://github.com/Grasscutters/Grasscutter) 
 
 </details>
 </div>
