@@ -135,12 +135,11 @@
 <details open> 
   <summary><h2>Most popular projects I've contributed to</h2></summary>
 
-[![KianaBH3](https://github-readme-stats-fast.vercel.app/api/pin/?username=MikuLeaks&repo=KianaBH3&theme=dracula)](https://github.com/MikuLeaks/KianaBH3) [![LunarCore](https://github-readme-stats-fast.vercel.app/api/pin/?username=Melledy&repo=LunarCore&theme=dracula)](https://github.com/Melledy/LunarCore)
+[![KianaBH3](https://github-readme-stats-fast.vercel.app/api/pin/?username=MikuLeaks&repo=KianaBH3&theme=dracula)](https://github.com/MikuLeaks/KianaBH3) [![StarResonanceData](https://github-readme-stats-fast.vercel.app/api/pin/?username=PotRooms&repo=StarResonanceData&theme=dracula)](https://github.com/PotRooms/StarResonanceData)
 
 [![discord-protos](https://github-readme-stats-fast.vercel.app/api/pin/?username=discord-userdoccers&repo=discord-protos&theme=dracula)](https://github.com/discord-userdoccers/discord-protos) [![Iridium-SR](https://github-readme-stats-fast.vercel.app/api/pin/?username=tamilpp25&repo=Iridium-SR&theme=dracula)](https://github.com/tamilpp25/Iridium-SR) 
 
-
-[![UnknownAnimeGamePS](https://github-readme-stats-fast.vercel.app/api/pin/?username=XeonSucksLAB&repo=UnknownAnimeGamePS&theme=dracula)](https://github.com/XeonSucksLAB/UnknownAnimeGamePS) [![Grasscutter](https://github-readme-stats-fast.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&theme=dracula)](https://github.com/Grasscutters/Grasscutter) 
+[![LunarCore](https://github-readme-stats-fast.vercel.app/api/pin/?username=Melledy&repo=LunarCore&theme=dracula)](https://github.com/Melledy/LunarCore) [![Grasscutter](https://github-readme-stats-fast.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&theme=dracula)](https://github.com/Grasscutters/Grasscutter) 
 
 </details>
 </div>
